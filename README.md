@@ -1,1 +1,1 @@
-Progetto Galli
+Esercizi laboratorio di simulazione numerica 
